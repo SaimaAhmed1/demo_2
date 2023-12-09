@@ -1,0 +1,25 @@
+//* DETA TYPES
+*STRING
+-"I AM PRITILOTA.I LOVE READING BOOKS"
+*NUMBER
+-INT=FLOAT/DOUBLE
+20,1.05
+*BOOLEAN
+-TRUE/FALSE
+*NULL
+-"  "
+//* variable rules
+*double word name($user_name/userName)
+* Don't use numerical number at first($1user)
+* Don't use special char.in the middle(name@user)
+*Don't use reserve word (echo)
+*Don't use any kind of emoji
+
+
+//*define
+*case sensitive
+* don't use dollar sign
+*double define can't accepted
+
+
+
